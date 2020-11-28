@@ -63,8 +63,7 @@ This project can be tested in real-world with similar data. The shape of the tes
 
 •	mlxtend - used for stacking the models
 
-## Authors
-•	Gaurav Sharma - Complete work  
+ 
 
 ## Acknowledgments
 •	Applied AI Course
